@@ -1,12 +1,9 @@
+
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Débora Cosvii - Desenvolvedora Java em formação">
+</div>
 <div align="center">
 
-#  Olá, eu sou a Débora!
-
-### ☕ Desenvolvedora Java em formação
-
-Aprendendo, praticando e construindo meu futuro na programação.
-
-🖤 Java 💛
 
 </div>
 
@@ -16,9 +13,6 @@ Aprendendo, praticando e construindo meu futuro na programação.
 
 Olá! Sou estudante de programação e estou desenvolvendo minhas habilidades em Java.
 
-- ☕ Estudando Programação Orientada a Objetos (POO)
-- 💻 Praticando lógica de programação
-- 🚀 Desenvolvendo meus primeiros projetos
 - 🎯 Buscando minha primeira oportunidade como desenvolvedora Java júnior
 
 ---
@@ -26,9 +20,10 @@ Olá! Sou estudante de programação e estou desenvolvendo minhas habilidades em
 ## 🛠️ Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![Html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=html&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FFD700)
+
 
 ---
 
@@ -40,9 +35,33 @@ Em breve, este espaço terá meus projetos desenvolvidos durante os estudos de J
 
 ---
 
-## 🎯 Meu objetivo
 
-Transformar conhecimento em projetos reais, evoluir como programadora e conquistar minha primeira oportunidade na área de tecnologia.
+## 💛 Minhas estatísticas
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deboracsv&show_icons=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deboracsv&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+
+</div>
+
+
+## 💛 Vamos nos conectar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Deboracsv)
+
+<a href="https://www.linkedin.com/in/debora-costa-viana-237b163b9">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/>
+</a>
+
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:viannad165@gmail.com)
+
+
+</div>
+
 
 <div align="center">
 
