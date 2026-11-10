@@ -27,12 +27,16 @@ Olá! Sou estudante de programação e estou desenvolvendo minhas habilidades em
 
 ---
 
-## 📂 Meus projetos
 
-🚧 **Projetos em construção!**
+## 💻 Meus projetos
 
-Em breve, este espaço terá meus projetos desenvolvidos durante os estudos de Java.
+### ☕ Java
+- [Sistema de Agendamento](https://github.com/Deboracsv/Sistema-Agendamento-Java)
+  - Sistema de gerenciamento de consultas médicas desenvolvido em Java com POO.
 
+### 🌐 Desenvolvimento Web
+- [Meu primeiro projeto HTML e CSS](https://github.com/Deboracsv/src)
+- [Projeto Pokémon](https://github.com/Deboracsv/pokemon-lstg)
 ---
 
 
