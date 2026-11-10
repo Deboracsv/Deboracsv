@@ -42,7 +42,9 @@ Em breve, este espaço terá meus projetos desenvolvidos durante os estudos de J
 
 <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Deboracsv&show_icons=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" />
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deboracsv&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deboracsv&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+username=Deboracsv&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 
 </div>
 
