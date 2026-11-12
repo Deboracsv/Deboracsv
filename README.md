@@ -17,13 +17,14 @@ Olá! Sou estudante de programação e estou desenvolvendo minhas habilidades em
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+
+## 💻 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
-![Html](https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=html&logoColor=FFD700)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
-
 
 ---
 
@@ -48,7 +49,7 @@ Olá! Sou estudante de programação e estou desenvolvendo minhas habilidades em
 
 
 <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deboracsv&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
-username=Deboracsv&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
+
 
 </div>
 
